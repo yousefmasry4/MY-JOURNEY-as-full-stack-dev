@@ -1,0 +1,65 @@
+/* add your CSS here */
+ul {
+  list-style: none;
+  padding: 0px;
+}
+
+h1{
+  padding-left: 10px;
+  font-family: Calibri, Candara, "Segoe UI", Optima, Arial, sans-serif;
+}
+
+img{
+  width: 300px;
+  border: thin solid gray;
+  border-radius: 6px;
+  display: block;
+  margin-right:5px;
+  margin-left:12px;
+}
+span {
+  font-weight: bold;
+  }
+
+.animal-info{
+  width: 320px;
+  border: thin solid;
+  box-shadow: 5px 5px gray;
+   padding-right: 9%;padding-left: 5%;padding-bottom: 3%;
+background:#589ca7 url('http://www.dreamtemplate.com/dreamcodes/bg_images/color/c12.jpg') no-repeat center top;
+}
+#card{
+  width: 320px;
+  border: thin solid;
+  margin-right:5px;
+  padding: 5px;
+
+}
+#facts{
+	list-style-type: none;
+    font-style: italic;
+     text-align: justify;
+}
+#container{
+	border:5px solid blue;
+	width: 335px;
+	margin-right:20px;
+	padding: 5px;
+}
+.info {
+  margin: 6px;
+  text-align:justify;
+  font-family: Calibri, Candara, "Segoe UI", Optima, Arial, sans-serif;
+  border:5px solid blue;
+  font-size: 13px;
+  padding: 0px 15px 0px 15px;
+}
+#interesting-fact{
+	font-style: italic;
+    margin-left: 36px;
+  	margin-right:3%;
+}
+#summary{
+	 margin-left: 36px;
+  	margin-right:3%;
+}
